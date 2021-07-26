@@ -1,6 +1,7 @@
 package ru.ds.weather_kotlin
 
-import ru.geekbrains.javatokotlin.data.Weather
+import ru.ds.weather_kotlin.data.Weather
+
 
 open class Repository : IRepository {
 
