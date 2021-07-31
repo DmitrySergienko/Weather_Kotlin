@@ -1,4 +1,4 @@
-package ru.ds.weather_kotlin
+package ru.ds.weather_kotlin.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
