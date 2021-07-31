@@ -22,6 +22,10 @@ open class Repository : IRepository {
                 Weather("Санкт-Петербург", 20),
                 Weather("Самара", 23),
                 Weather("Новосибирск", 15),
+                Weather("Новосибирск", 15),
+                Weather("Новосибирск", 15),
+                Weather("Новосибирск", 15),
+                Weather("Новосибирск", 15),
                 weather,
                 weather2,
                 weather3
