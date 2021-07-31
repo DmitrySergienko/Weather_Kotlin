@@ -5,7 +5,8 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import ru.ds.weather_kotlin.data.Weather
-import ru.geekbrains.androidwithkotlin.databinding.MainRecyclerItemBinding
+import ru.ds.weather_kotlin.databinding.MainRecyclerItemBinding
+
 
 
 class MainFragmentAdapter :

@@ -2,7 +2,7 @@ package ru.ds.weather_kotlin.data
 
 import android.os.Parcelable
 
-dimport android.os.Parcelable
+
 import kotlinx.android.parcel.Parcelize
 
 @Parcelize

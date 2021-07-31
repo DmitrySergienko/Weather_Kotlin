@@ -8,11 +8,13 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.google.android.material.snackbar.Snackbar
+import ru.ds.weather_kotlin.R
 import ru.ds.weather_kotlin.data.Weather
+import ru.ds.weather_kotlin.databinding.MainFragmentBinding
 import ru.ds.weather_kotlin.repository.AppState
-import ru.geekbrains.androidwithkotlin.R
-import ru.geekbrains.androidwithkotlin.databinding.MainFragmentBinding
-import ru.geekbrains.androidwithkotlin.viewmodel.MainViewModel
+import ru.ds.weather_kotlin.viewmodel.MainViewModel
+
+
 
 class MainFragment : Fragment() {
 

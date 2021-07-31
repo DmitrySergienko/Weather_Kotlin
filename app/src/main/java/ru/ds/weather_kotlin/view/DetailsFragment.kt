@@ -5,9 +5,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import ru.geekbrains.androidwithkotlin.R
-import ru.geekbrains.androidwithkotlin.databinding.DetailsFragmentBinding
-import ru.geekbrains.androidwithkotlin.model.data.Weather
+import ru.ds.weather_kotlin.R
+import ru.ds.weather_kotlin.data.Weather
+import ru.ds.weather_kotlin.databinding.DetailsFragmentBinding
+
+
 
 class DetailsFragment : Fragment() {
 

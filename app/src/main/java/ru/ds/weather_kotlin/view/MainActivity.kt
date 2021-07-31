@@ -2,8 +2,8 @@ package ru.ds.weather_kotlin.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import ru.geekbrains.androidwithkotlin.R
-import ru.geekbrains.androidwithkotlin.databinding.MainActivityBinding
+import ru.ds.weather_kotlin.databinding.MainActivityBinding
+
 
 class MainActivity : AppCompatActivity() {
 
